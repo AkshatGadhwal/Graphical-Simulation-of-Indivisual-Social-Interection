@@ -9,7 +9,7 @@ import java.util.Map;
 
 
 
-public class A4_2019EE30560{
+public class A4_2019EE30551{
 	
 	public static class Graph {
 		
