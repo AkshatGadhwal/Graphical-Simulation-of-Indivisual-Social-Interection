@@ -1,4 +1,4 @@
-# Assignment 4: Graph Analysis (COL106)
+# Graph Analysis (COL106) - Simulating Indivisual Social Interection
 
 This repository contains the solution for Assignment 4 of the COL106 course, which focuses on graph analysis and algorithms.
 
